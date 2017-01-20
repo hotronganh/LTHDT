@@ -1,1 +1,1 @@
-print " trong anh oc cho"
+print " duc anh oc cho"
